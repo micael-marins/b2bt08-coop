@@ -1,5 +1,7 @@
 # b2bt08-coop
 
-# Ruan David - Collab
+## Ruan David - Collab
 
-# Caique L. - collab.
+## Caique L. - collab.
+
+## Vinicius Gomes
